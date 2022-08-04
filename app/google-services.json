@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "848782064647",
+    "project_id": "shayariapp-91af6",
+    "storage_bucket": "shayariapp-91af6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848782064647:android:a186cfecf00013bc9afea2",
+        "android_client_info": {
+          "package_name": "com.blog.app.Gb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848782064647-vdvj35fvihdg6vpv3hov3o3qjcp0r9h0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blog.app.Gb",
+            "certificate_hash": "18d6a81d68449c899dad1cfa0b1055c0eb0de4d0"
+          }
+        },
+        {
+          "client_id": "848782064647-ck43c1iv6bi93ahcqj6mg6rg1uf3m5a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHEnPfpXjPpXtNJN4hlxQn9LrJl2sYkcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848782064647-ck43c1iv6bi93ahcqj6mg6rg1uf3m5a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
